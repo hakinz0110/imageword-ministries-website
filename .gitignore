@@ -1,0 +1,52 @@
+# ============================================
+# ImageWord Ministries - Git Ignore
+# ============================================
+
+# Dependencies
+/node_modules
+/admin/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js Build
+/.next/
+/admin/.next/
+/out/
+
+# Production Build
+/build
+
+# Environment Files (CRITICAL - NEVER COMMIT)
+.env
+.env.local
+.env.production
+.env.development
+.env*.local
+admin/.env
+admin/.env.local
+admin/.env.production
+
+# IDE & Editor
+.DS_Store
+*.pem
+.vscode/
+.idea/
+
+# Debug Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+
+# OS Files
+Thumbs.db
+*.swp
+*.swo
