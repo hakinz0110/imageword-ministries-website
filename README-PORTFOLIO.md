@@ -1,11 +1,11 @@
-# 🙏 ImageWord Ministries - Church Website
+# ImageWord Ministries - Church Website
 
 A modern, full-stack church website built with Next.js, featuring a complete content management system for sermons, events, ministries, and more.
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-06B6D4?style=flat-square&logo=tailwindcss)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
 ![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase)
 
 ##  Features
